@@ -1,7 +1,2 @@
-This the first git file.
-Could you read it ?
-Please tell me more about the git.
-And I would like to learn more !
-
-qqlove
-? Nobody answer me .
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
